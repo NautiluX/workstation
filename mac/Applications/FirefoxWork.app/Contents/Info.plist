@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleExecutable</key>
+    <string>FirefoxWork</string>
+    <key>CFBundleSignature</key>
+    <string>FIREFOXWORK</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleIconFile</key>
+    <string>firefox.icns</string>
+    <key>CFBundleVersion</key>
+    <string>1.0.0</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.firefox</string>
+    <key>CFBundleDisplayName</key>
+    <string>Firefox Work</string>
+    <key>CFBundleName</key>
+    <string>Firefox Work</string>
+</dict>
+</plist>
